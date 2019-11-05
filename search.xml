@@ -5,8 +5,8 @@
     
     <entry>
       <title>终于会用Git</title>
-      <link href="/Git-Yes/"/>
-      <url>/Git-Yes/</url>
+      <link href="/2019/Git-Yes/"/>
+      <url>/2019/Git-Yes/</url>
       
         <content type="html"><![CDATA[<h2 id="所需安装程序"><a href="#所需安装程序" class="headerlink" title="所需安装程序"></a>所需安装程序</h2><ol><li><a href="https://git-scm.com/download/win" target="_blank" rel="noopener">Bit Bash &amp; Git GUI</a></li><li><a href="https://desktop.github.com/" target="_blank" rel="noopener">GitHubDesktop</a></li></ol><h2 id="开始操作"><a href="#开始操作" class="headerlink" title="开始操作"></a>开始操作</h2><ol><li><p><code>cd desktop/test</code></p><p>[^本地创建一个文件夹存放git，打开]: </p></li><li><p><code>git init</code></p><p>[^初始化命令，自行输入帐号密码]: </p></li><li><p><code>git clone https://github.com/leewinmen/liweimin.github.io</code></p><p>[^克隆仓库到本地]: </p></li></ol><h2 id="上传文件到仓库"><a href="#上传文件到仓库" class="headerlink" title="上传文件到仓库"></a>上传文件到仓库</h2><ol><li><p><code>git add .</code></p><p>[^添加命令：需要先把需要上传的文件放到clone下来的文件夹对应位置]: </p></li><li><p><code>git commit -m&quot;init project&quot;</code></p><p>[^确认命令]: </p></li></ol><h2 id="删除仓库中的文件"><a href="#删除仓库中的文件" class="headerlink" title="删除仓库中的文件"></a>删除仓库中的文件</h2><ol><li><p><code>cd xxx.github.io</code></p><p>[^进入克隆下了的仓库文件夹，需要删除文件的目录下]: </p></li><li><p><code>git rm -f index.html</code></p><p>[^这里我需要删除index.html这个文件]: </p><ul><li><p><code>git rm -r index</code></p></li><li><p>[^这是删除文件夹的命令，比如这里删除index文件夹，替上面第二步]: </p></li></ul></li><li><p><code>git commit -m &#39;index.html&#39;</code></p><p>[^对这个文件前面的操作进行却]: </p></li><li><p><code>git remote add origin https://github.com/leewinmen/liweimin.github.io.git</code></p></li><li><p><code>git push -u origin master</code></p><p>[^这样就把仓库里的某个文件删除了]: </p><ul><li><code>git push https://github.com/leewinmen/liweimin.github.io</code></li></ul></li></ol><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><ul><li><p><code>git status</code></p><p>[^查看git当前状态]: </p></li></ul><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>一般思路就是：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">git status</span><br><span class="line"></span><br><span class="line">git rm index.html</span><br><span class="line"></span><br><span class="line">git rm -h</span><br><span class="line"></span><br><span class="line">git commit -m &quot;&quot;</span><br></pre></td></tr></table></figure><hr><h2 id="我遇到的坑"><a href="#我遇到的坑" class="headerlink" title="我遇到的坑"></a>我遇到的坑</h2><ol><li><h4 id="GitHub创建博客报错404-There-isn’t-a-GitHub-Pages-site-here"><a href="#GitHub创建博客报错404-There-isn’t-a-GitHub-Pages-site-here" class="headerlink" title="GitHub创建博客报错404 There isn’t a GitHub Pages site here."></a>GitHub创建博客报错404 There isn’t a GitHub Pages site here.</h4><p>解决方案：</p><p>1.进入setting</p><p><img alt="img" data-src="20181031220622920-1572275452432.png" class="lozad"></p><p>2.找到GitHub Page,点击Change theme（设置之后即可访问）</p><p><img alt="img" data-src="20181031220654176-1572275465064.png" class="lozad"></p></li></ol><ol start="2"><li><h4 id="Git发生Another-git-process-seems-to-be-running-in-this-repository"><a href="#Git发生Another-git-process-seems-to-be-running-in-this-repository" class="headerlink" title="Git发生Another git process seems to be running in this repository."></a>Git发生Another git process seems to be running in this repository.</h4><p>解决方案：</p><p> 到你的Git文件夹去 ,然后会发现文件夹里面多了一个.git文件,打开.git文件，然后找到index.lock删除</p></li></ol>]]></content>
       
@@ -38,8 +38,8 @@
     
     <entry>
       <title>Soildworks 2019 SP0 极速翱翔精简版</title>
-      <link href="/soildworks2019/"/>
-      <url>/soildworks2019/</url>
+      <link href="/2019/soildworks2019/"/>
+      <url>/2019/soildworks2019/</url>
       
         <content type="html"><![CDATA[<p>软件大小：2.37G<br>软件语言：简体中文/英文<br>应用平台：Win7 / Win8 / Win10<br>更新时间：2019/09/03<br>下载地址：<a href="https://pan.baidu.com/s/1QJipKKmHTI6YRfPSHnMQHg" target="_blank" rel="noopener">点我</a>  提取码:bkcp </p><p><img alt data-src="https://i.loli.net/2019/11/05/YrZmVaPcIz5xe7G.jpg" class="lozad"></p><p>SOLIDWORKS 2019 SP0是一款三维机械计算机辅助设计制图工具，在2019中引入了一些强大的新工具，用于处理网格几何体，并提高装配体的生产效率。软件提供了大量创新的新型生产效率增强功能，使您可以充分利用最新的尖端硬件技术。</p><p>极速翱翔<strong>仅保留软件本体</strong>，把软件大小控制在2.4G，根据我的精简经验，从软件构成来说，预设占了很大体积，但是由于是CAB压缩，我无法将其精简或修改，不过也已经把原版接近15G的文件体积减少了下来，这是全网最新版2019的精简版本。精简不易，还望大家多多支持。</p><p>安装前请先仔细阅读安装说明，严格遵守安装方法。确保顺利安装<br><img alt data-src="https://i.loli.net/2019/11/05/onVXcBzMRP8keNA.jpg" class="lozad"></p><p>如果网盘链接失效，或者你对soildworks精简有什么建议反馈，<br>可直接在公众号发消息向我反馈，我会在第一时间回复大家。<br><img alt data-src="https://i.loli.net/2019/11/05/vbVQUdAxP5ZcElg.jpg" class="lozad"></p>]]></content>
       
@@ -73,8 +73,8 @@
     
     <entry>
       <title>Hexo博客它来了</title>
-      <link href="/Hexo-coming/"/>
-      <url>/Hexo-coming/</url>
+      <link href="/2018/Hexo-coming/"/>
+      <url>/2018/Hexo-coming/</url>
       
         <content type="html"><![CDATA[<p>凌晨4点，总结hexo的坎坷</p><h2 id="使用cmd-检查安装"><a href="#使用cmd-检查安装" class="headerlink" title="使用cmd,检查安装"></a>使用cmd,检查安装</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">node -v</span><br><span class="line">npm -v</span><br><span class="line">git --version</span><br><span class="line">npm ls --depth 0</span><br></pre></td></tr></table></figure><p>(最后一个是我遇到的，npm安装不全，坑爹，一晚上就被这个浪费时间，检查出问题的解决方法见最后)</p><h2 id="cd-到blog文件夹"><a href="#cd-到blog文件夹" class="headerlink" title="cd 到blog文件夹"></a>cd 到blog文件夹</h2><ol><li><p>安装cnpm</p><p><code>npm install -g cnpm --registry=https://registry.npm.taobao.org</code></p><p><code>cnpm -v</code></p><p><code>cnpm install</code></p></li><li><p>用npm安装hexo</p><p><code>npm install -g hexo</code></p><p>（或者install -g hexo-cli）</p><p>在hexo文件夹运行git bash(或者cd到新建的博客的文件夹)</p></li><li><p>初始化hexo</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hexo init  # 前面可以不用加npm install</span><br><span class="line">hexo g # 生成</span><br><span class="line">hexo s # 启动服务</span><br></pre></td></tr></table></figure><p>（这里失败请使用npm ls –depth 0检查漏了什么npm）</p></li></ol><ol start="4"><li>填写你都git账号信息</li></ol><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">git config --global user.name &quot;leewinmen&quot;</span><br><span class="line">git config --global user.email leewinmen@qq.com</span><br><span class="line">ssh-keygen -t rsa -C &quot;leewinmen@qq.com&quot;</span><br></pre></td></tr></table></figure><p>之后是ssh，到C:\Users\你的名字\ .ssh文件夹\ id_rsa.pub，打开它，复制到github或码云</p><p>回车3次<br>5. 配置CNAME，放到source文件夹下<br>6. 用编辑器打开你的blog项目，修改_config.yml文件的一些配置(冒号之后都是有一个半角空格的)：<br>   deploy:<br>     type: git<br>     repository: <a href="mailto:git@github.com" target="_blank" rel="noopener">git@github.com</a>:leewinmen/liweimin.github.io.git<br>     branch: master<br>   需要缩进格式加空格，填好保存，执行<br><code>npm install hexo-deployer-git --save</code></p><h2 id="主题"><a href="#主题" class="headerlink" title="主题"></a>主题</h2><p><code>git clone -b master https://github.com/jerryc127/hexo-theme-butterfly.git themes/Butterfly</code><br><code>git clone https://github.com/ikeq/hexo-theme-inside</code><br><code>hexo clean &amp;&amp; hexo g</code></p><h2 id="遇到的坑"><a href="#遇到的坑" class="headerlink" title="遇到的坑"></a>遇到的坑</h2><h3 id="第一个"><a href="#第一个" class="headerlink" title="第一个"></a>第一个</h3><p>出现<br>$ hexo d<br>ERROR Deployer not found: git<br>因为使用hexo deploy部署需要安装一个插件：<br><code>npm install --save hexo-deployer-git</code><br>意思是保存deploy的修改</p><h3 id="第二个"><a href="#第二个" class="headerlink" title="第二个"></a>第二个</h3><p>修改了模板，但是没有生效？<br>修改了模板以后不生效，建议先hexo clean，然后再hexo generate。只执行hexo g，可能模板后者静态文件不会被替换。最后hexo d</p><h3 id="第三个"><a href="#第三个" class="headerlink" title="第三个"></a>第三个</h3><p>查看 npm 安装各 hexo 插件的情况<br>npm ls –depth 0<br>比如我的就出现了<br>+– UNMET DEPENDENCY hexo-generator-category@^1.0.0<br>+– UNMET DEPENDENCY hexo-generator-index@^1.0.0<br>+– UNMET DEPENDENCY hexo-generator-tag@^1.0.0<br>+– UNMET DEPENDENCY hexo-renderer-ejs@^1.0.0<br>+– UNMET DEPENDENCY hexo-renderer-marked@^2.0.0<br>+– UNMET DEPENDENCY hexo-renderer-stylus@^1.1.0<br>`– UNMET DEPENDENCY hexo-server@^1.0.0</p><p>逐一安装缺失的包<br><code>npm install hexo-generator-category --save</code><br><code>npm install hexo-generator-index --save</code><br>.<br>.<br>如此类推，建议涉及到npm的最好用cmd来</p><h3 id="第四个"><a href="#第四个" class="headerlink" title="第四个"></a>第四个</h3><p>LF will be replaced by CRLF<br>把.deploy_git文件夹手动删除了，重新hexo deploy了一次</p><h3 id="第五个"><a href="#第五个" class="headerlink" title="第五个"></a>第五个</h3><p>git clone下载速度慢</p><p>组车码云，新建仓库，从git中获取，输入需要clone的地址，最后从码云git clone</p><h3 id="第六个"><a href="#第六个" class="headerlink" title="第六个"></a>第六个</h3><p> 冒号少了空格，会出现以下情况</p><p>YAMLException: can not read a block mapping entry; a multiline key may not b</p><p>五点钟了已经，睡觉</p><p>hexo new ‘here is awesome’</p>]]></content>
       
@@ -108,8 +108,8 @@
     
     <entry>
       <title>Hexo安装rss插件生成atom.xml</title>
-      <link href="/RSS/"/>
-      <url>/RSS/</url>
+      <link href="/2017/RSS/"/>
+      <url>/2017/RSS/</url>
       
         <content type="html"><![CDATA[<p>继续优化博客功能，之前觉得现在这个时代rss订阅就是一个鸡肋。但是自从搞了站点地图以后，还是觉得少了这一个功能不太好，就也安装一下。具体步骤如下所示。因为我用的主题已经集成了rss功能，所以就是加一个插件的事情。</p><p>进入本地hexo目录，输入以下命令:<br><code>npm install hexo-generator-feed</code></p><p>在博客目录的_config.yml中添加如下代码:</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">#RSS订阅</span><br><span class="line">plugin:</span><br><span class="line">- hexo-generator-feed</span><br><span class="line">#Feed Atom</span><br><span class="line">feed:</span><br><span class="line">type: atom</span><br><span class="line">path: atom.xml</span><br><span class="line">limit: 20</span><br></pre></td></tr></table></figure><p>因为我使用的是Maupassant主题，已经集成了rss功能，所以设置到这一步就可以了。如果你的主题里面没有rss相关设置，也可以添加如下代码：</p><p><code>rss： /atom.xml</code></p><p>本文作者：NickYam<br>本文链接：<a href="https://www.nickyam.com/tech/hexo-generate-rss-atom.html" target="_blank" rel="noopener">https://www.nickyam.com/tech/hexo-generate-rss-atom.html</a></p>]]></content>
       
@@ -125,11 +125,11 @@
             
             <tag> 极速翱翔 </tag>
             
+            <tag> hexo </tag>
+            
             <tag> RSS </tag>
             
             <tag> atom.xml </tag>
-            
-            <tag> hexo </tag>
             
             <tag> 订阅 </tag>
             
@@ -143,8 +143,8 @@
     
     <entry>
       <title>Hexo安装Livere评论插件</title>
-      <link href="/livere/"/>
-      <url>/livere/</url>
+      <link href="/2017/livere/"/>
+      <url>/2017/livere/</url>
       
         <content type="html"><![CDATA[<p>给自己搭了一个博客，但是原博客的评论系统用的gitment,只能够供github用户评论。我想要评论系统当然不能够独宠github用户，于是就看到韩国的Livere（来必力）评论，基本满足了我的要求。可以支持多种类型的账号登录发言，比如 QQ 微信 微博，百度 等账号登录发言。而且 功能 还是比较强大 操作简单。植入到自己的 博客里 也 比较轻松，任何主题的博客都可以用，不一定要 Next 主题（Next 主题 已经植入了 来必力City 只需配置一下即可），只需在对应位置加入 来必力City版安装代码 就是加入点JavaScript 语句 ，下面就是具体安装步骤（非Next主题）：</p><h2 id="第一步："><a href="#第一步：" class="headerlink" title="第一步："></a>第一步：</h2><p>去<a href="https://livere.com/" target="_blank" rel="noopener">Livere官网</a>注册Livere账号。</p><h2 id="第二步："><a href="#第二步：" class="headerlink" title="第二步："></a>第二步：</h2><p>选择City版（免费），安装。</p><p><img alt data-src="https://i.loli.net/2019/11/02/DwTF5uZcK9qzSk4.png" class="lozad"></p><p>（会生成 来必力City版安装代码以及 data-uid ，或者 进入管理页面-&gt;代码管理-&gt;一般网站，可以查看）</p><h2 id="第三步："><a href="#第三步：" class="headerlink" title="第三步："></a>第三步：</h2><p>改主题的 _config.yml</p><p>我的路径是：C:\blog\themes\Butterfly_config.yml (你们的对应)</p><p>增加如下：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"># Livere评论系统</span><br><span class="line">  Livere:</span><br><span class="line">  livere_uid: 这里填 City版安装代码中的data-uid</span><br></pre></td></tr></table></figure><p>特别说明一下，有一些是已经集成了livere的主题，搜索livere_uid，将livere_uid前面的#号去掉，将id填写到livere_uid：后面。我就是因为没去掉#一直以为什么地方出问题。</p><p><img alt data-src="https://i.loli.net/2019/11/02/PwmDKWIogMLVk1H.png" class="lozad"></p><p><img alt data-src="https://i.loli.net/2019/11/02/lJtVIuid8L7OkAD.png" class="lozad"></p><h2 id="第四步："><a href="#第四步：" class="headerlink" title="第四步："></a>第四步：</h2><p>重新部署 看看效果</p><p><code>hexo clean &amp;&amp; hexo g &amp;&amp; hexo d</code></p><p>看看我的效果：</p><p><img alt data-src="https://i.loli.net/2019/11/02/yZu79U1w4fzkhjI.png" class="lozad"></p>]]></content>
       
@@ -178,8 +178,8 @@
     
     <entry>
       <title>隐藏由hexo强力驱动</title>
-      <link href="/driven-theme/"/>
-      <url>/driven-theme/</url>
+      <link href="/2016/driven-theme/"/>
+      <url>/2016/driven-theme/</url>
       
         <content type="html"><![CDATA[<p>追求简洁，希望把页脚这个给隐藏起来，网上只有关于Next主题的教程，摸索了一下其他主题该怎么做。</p><p>我的主题是Butterfly，我们需要修改_config.yml，把<br>footer_copyright:<br>  enable: true</p><p>true修改为false</p><p><img alt data-src="https://i.loli.net/2019/11/04/o8AHnkwh6GIZNt2.jpg" class="lozad"></p><p>修改后的效果，大家看我这篇博客页脚的效果就知道了。</p>]]></content>
       
@@ -217,8 +217,8 @@
     
     <entry>
       <title>对网站进行搜索引擎SEO优化</title>
-      <link href="/SEO/"/>
-      <url>/SEO/</url>
+      <link href="/2014/SEO/"/>
+      <url>/2014/SEO/</url>
       
         <content type="html"><![CDATA[<h2 id="SEO思路"><a href="#SEO思路" class="headerlink" title="SEO思路"></a>SEO思路</h2><p>辛辛苦苦建了个网站，奈何搜索引擎都搜不到，其实是搜索引擎不知道你的存在，你得告诉它们，这样你才会出现在搜索结果中。至于怎么操作网上教程有很多，总结以下思路就是：</p><p><u>到搜索引擎站长平台，验证你自己的网站；生成一个文档，里面包含你网站的全部连接，然后提交给搜索引擎，搜索引擎一个个去获取里面的连接，检查无误后出现在搜索结果里面。</u></p><p><img alt data-src="https://i.loli.net/2019/11/04/MhF6mUfdX17Ox2S.png" class="lozad"></p><p>可以看到没有收录前，搜索引擎是搜索不到的</p><h2 id="主流搜索引擎"><a href="#主流搜索引擎" class="headerlink" title="主流搜索引擎"></a>主流搜索引擎</h2><p>1.<a href="https://search.google.com/search-console" target="_blank" rel="noopener">谷歌Search Console</a>  </p><p>2.<a href="https://ziyuan.baidu.com/" target="_blank" rel="noopener">百度搜索资源平台</a>  </p><p>3.<a href="http://zhanzhang.so.com/" target="_blank" rel="noopener">360站长平台</a> </p><p>4.<a href="https://www.bing.com/toolbox/webmaster/" target="_blank" rel="noopener">必应bing网站管理员平台</a></p><p>我会以百度为例给大家讲解大概流程</p><h2 id="收录流程"><a href="#收录流程" class="headerlink" title="收录流程"></a>收录流程</h2><h3 id="验证网站"><a href="#验证网站" class="headerlink" title="验证网站"></a>验证网站</h3><p>在站点管理中，添加网址，验证选文件是最快的，导入我偶尔也用CNAME。这一步是让搜索引擎知道你是网站的控制者。</p><p><img alt data-src="https://i.loli.net/2019/11/04/vFg36MawDj9YKhL.png" class="lozad"></p><h3 id="生成sitemap网站地图"><a href="#生成sitemap网站地图" class="headerlink" title="生成sitemap网站地图"></a>生成sitemap网站地图</h3><p>sitemap一般有txt,xml,html格式，里面包含你希望被搜索引擎获取的所有连接，hexo可以生成。另外自行<strong>百度sitemap在线生成</strong>也可以做到，这里就不展开讲了。<u>注意里面不要有其他网站的连接。</u></p><h3 id="提交搜索引擎"><a href="#提交搜索引擎" class="headerlink" title="提交搜索引擎"></a>提交搜索引擎</h3><p>提交分为主动推送，自动推送，sitemap，还有最笨的手动提交。</p><ol><li><p>主动是搜索引擎实时可以得到的。</p></li><li><p>自动就是你网站更新时，提交一份sitemap给百度</p></li><li><p>sitemap就是你提交之后，百度有空时再帮你看。效率最低，谷歌的还好，一般2小时就能收录，至于百度sitemap,看图<br><img alt data-src="https://i.loli.net/2019/11/04/lF8G3q6EdZrxCNv.png" class="lozad"></p></li><li><p>谷歌倒是比较给力，你填写你的sitemap.xml路径就行，实测hexo生成的sitemap， 根目录的baidusitemap.xml 效果最好，可能是xml格式的原因。<br><img alt data-src="https://i.loli.net/2019/11/04/gQ3ElusH8IiTrAp.png" class="lozad"></p></li><li><p>手动提交就很很笨了，把你网站有的目录一个个输进去。</p><h3 id="主动推送"><a href="#主动推送" class="headerlink" title="主动推送"></a>主动推送</h3></li></ol><p>方法再主动推送有说，我没学过编程， php、python、java 统统看不懂，但是curl这个我大概看懂了。</p><p>   <img alt data-src="https://i.loli.net/2019/11/04/4jXwtCqQ8cD5Lhy.jpg" class="lozad"></p><p> 将要提交的链接按照每行一条的格式写入一个文本文件中，命名此文件为urls.txt，然后进入该文件所在目录，执行如下命令。不就是把txt格式的网站地图，输入下面的cmd命令嘛，终于有会的方法了。</p><p><img alt data-src="https://i.loli.net/2019/11/04/sWerMJCXSFVwA7y.jpg" class="lozad"></p><p>我在我C盘test/blog文件夹里面，粘贴命令，回车，显示成功提交了52条，终于成功了。看看</p><p><img alt data-src="https://i.loli.net/2019/11/04/YgrTA4u98vkPea1.png" class="lozad"></p><p>sitemap还没动呢，主动提交也还好，起码有进度。</p><h3 id="收录效果测试"><a href="#收录效果测试" class="headerlink" title="收录效果测试"></a>收录效果测试</h3><p><img alt data-src="https://i.loli.net/2019/11/04/VAkS4YLJlNuITym.png" class="lozad"></p><p>谷歌已经可以看到我的博客了。当然要越多才能靠前。</p><h2 id="其他搜索引擎"><a href="#其他搜索引擎" class="headerlink" title="其他搜索引擎"></a>其他搜索引擎</h2><p>再来看看360的收录情况。提交地址后的收录情况</p><p><img alt data-src="https://i.loli.net/2019/11/04/7OsiTLnAUloNf1X.png" class="lozad"></p><p>同样，你告诉它路径，定期为你检查上面的网址。</p><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>我也是再摸索，研究hexo，但是后面发现，没抓住思路，跟着教程输命令，还容易有问题，抓住了思路，甚至可以拜托hexo命令。把知识迁移到不同的 网站上。</p>]]></content>
       
