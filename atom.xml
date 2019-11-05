@@ -136,13 +136,13 @@
     
       <category term="hexo" scheme="http://blog.darler.cn/tags/hexo/"/>
     
+      <category term="darler" scheme="http://blog.darler.cn/tags/darler/"/>
+    
       <category term="RSS" scheme="http://blog.darler.cn/tags/RSS/"/>
     
       <category term="atom.xml" scheme="http://blog.darler.cn/tags/atom-xml/"/>
     
       <category term="订阅" scheme="http://blog.darler.cn/tags/%E8%AE%A2%E9%98%85/"/>
-    
-      <category term="darler" scheme="http://blog.darler.cn/tags/darler/"/>
     
   </entry>
   
@@ -239,8 +239,6 @@
     
       <category term="hexo" scheme="http://blog.darler.cn/tags/hexo/"/>
     
-      <category term="darler" scheme="http://blog.darler.cn/tags/darler/"/>
-    
       <category term="seo" scheme="http://blog.darler.cn/tags/seo/"/>
     
       <category term="sitemap" scheme="http://blog.darler.cn/tags/sitemap/"/>
@@ -248,6 +246,8 @@
       <category term="站长平台" scheme="http://blog.darler.cn/tags/%E7%AB%99%E9%95%BF%E5%B9%B3%E5%8F%B0/"/>
     
       <category term="主动提交" scheme="http://blog.darler.cn/tags/%E4%B8%BB%E5%8A%A8%E6%8F%90%E4%BA%A4/"/>
+    
+      <category term="darler" scheme="http://blog.darler.cn/tags/darler/"/>
     
   </entry>
   

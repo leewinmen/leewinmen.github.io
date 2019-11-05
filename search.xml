@@ -127,13 +127,13 @@
             
             <tag> hexo </tag>
             
+            <tag> darler </tag>
+            
             <tag> RSS </tag>
             
             <tag> atom.xml </tag>
             
             <tag> 订阅 </tag>
-            
-            <tag> darler </tag>
             
         </tags>
       
@@ -236,8 +236,6 @@
             
             <tag> hexo </tag>
             
-            <tag> darler </tag>
-            
             <tag> seo </tag>
             
             <tag> sitemap </tag>
@@ -245,6 +243,8 @@
             <tag> 站长平台 </tag>
             
             <tag> 主动提交 </tag>
+            
+            <tag> darler </tag>
             
         </tags>
       
