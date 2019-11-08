@@ -20,10 +20,6 @@
       
         <tags>
             
-            <tag> Darler </tag>
-            
-            <tag> 极速翱翔 </tag>
-            
             <tag> 路由器 </tag>
             
             <tag> 无线 </tag>
@@ -35,6 +31,10 @@
             <tag> 2个 </tag>
             
             <tag> 交换机 </tag>
+            
+            <tag> Darler </tag>
+            
+            <tag> 极速翱翔 </tag>
             
         </tags>
       
@@ -78,6 +78,84 @@
     
     
     <entry>
+      <title>阿诺德渲染器Arnold 2.6.0汉化PJ版</title>
+      <link href="/arnold2-6-0/"/>
+      <url>/arnold2-6-0/</url>
+      
+        <content type="html"><![CDATA[<p><strong>更新2.6.0，有汉化+PJ补丁</strong><br>因本人只使用C4D R19，<u>故只提供R19和R20的版本</u></p><p>阿诺德是一款高级的蒙特卡洛光线追踪渲染器，专为长篇动画和视觉效果的要求而编写。最初与索尼影业联合Imageworks开发，现在是他们的主要渲染器,阿诺德用于全世界超过300个工作室，阿诺德是主要的渲染器在多的电影。可作为一个独立的渲染器运行在Cinema 4D,Maya,Softimage, Houdini和Katana插件。<br><img alt data-src="https://i.loli.net/2019/11/08/AzYrlg5I9ZBudm1.jpg" class="lozad"></p><p>安装说明：<br>1.运行C4DtoA-2.6.0-win-R19.exe,安装路径选C4D安装路径<br>2.汉化PJ<br>运行C4DtoA2.6.0汉化PJ补丁-R19.exe，目录一定要选择R19的安装目录<br>3.打开C4D即可使用。<br><img alt data-src="https://i.loli.net/2019/11/08/lvPzuNSnqwAfIgR.jpg" class="lozad"></p><p>非全汉化，但是<u>汉化率达到85-90%</u>，使用起来问题不大。有渲染器<a href="http://www.c4dcn.com/thread-htm-fid-37-sortid-5-jc_fenlei-1.html" target="_blank" rel="noopener">基础</a>的会上手更快。<br>链接失效，安装不成功可私信我。</p><p><a href="https://pan.baidu.com/s/1ZwRjBh_wlAzAD6AUxue78Q" target="_blank" rel="noopener">下载链接</a>  提取码: saic </p><p><img alt="img" data-src="https://i.loli.net/2019/11/08/8Hki2CompKaQd4R.jpg" class="lozad"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 设计软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Darler </tag>
+            
+            <tag> 极速翱翔 </tag>
+            
+            <tag> 阿诺德 </tag>
+            
+            <tag> C4D </tag>
+            
+            <tag> 汉化 </tag>
+            
+            <tag> 2.6 </tag>
+            
+            <tag> 渲染 </tag>
+            
+            <tag> 汉化 Arnold </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>阿诺德渲染器Arnold 2.5.2汉化PJ版</title>
+      <link href="/arnold2-5-2/"/>
+      <url>/arnold2-5-2/</url>
+      
+        <content type="html"><![CDATA[<p><img alt data-src="https://i.loli.net/2019/11/08/bd92zJeIVprkXiS.png" class="lozad"></p><p>因本人只使用C4D R19，故<u>只提供R19和R20</u>的版本</p><p>阿诺德是一款高级的蒙特卡洛光线追踪渲染器，专为长篇动画和视觉效果的要求而编写。最初与索尼影业联合Imageworks开发，现在是他们的主要渲染器,阿诺德用于全世界超过300个工作室，阿诺德是主要的渲染器在多的电影。可作为一个独立的渲染器运行在Cinema 4D,Maya,Softimage, Houdini和Katana插件。</p><p><img alt data-src="https://i.loli.net/2019/11/08/KcinpEul4r1Dg6Q.png" class="lozad"></p><p>安装汉化XX说明：<br>1.运行C4DtoA-2.5.2-win-R19.exe,安装路径选C4D安装路径<br>2.汉化PJ<br>运行【R19】Arnold.v2.5.2汉化PJ补丁.exe，目录一定要选择R19的安装目录<br>3.打开C4D即可使用</p><p><img alt data-src="https://i.loli.net/2019/11/08/FgO4b8AutJLnej2.png" class="lozad"></p><p>非全汉化，但是<u>汉化率达到85-90%</u>，使用起来问题不大。有渲染器基础的会上手更快。<br>链接失效，安装不成功可私信我。</p><p><a href="https://pan.baidu.com/s/1HCvKj1ExgAMr7Dm-8XvZbQ" target="_blank" rel="noopener">链接</a>   提取码：11fw</p><p><img alt="img" data-src="https://i.loli.net/2019/11/08/8Hki2CompKaQd4R.jpg" class="lozad"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 设计软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Darler </tag>
+            
+            <tag> 极速翱翔 </tag>
+            
+            <tag> 阿诺德 </tag>
+            
+            <tag> C4D </tag>
+            
+            <tag> 汉化 </tag>
+            
+            <tag> 渲染 </tag>
+            
+            <tag> 汉化 Arnold </tag>
+            
+            <tag> 2.5.2 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>终于会用Git</title>
       <link href="/Git-Yes/"/>
       <url>/Git-Yes/</url>
@@ -94,15 +172,15 @@
       
         <tags>
             
+            <tag> Darler </tag>
+            
+            <tag> 极速翱翔 </tag>
+            
             <tag> Github </tag>
             
             <tag> 上传 </tag>
             
             <tag> 删除 </tag>
-            
-            <tag> Darler </tag>
-            
-            <tag> 极速翱翔 </tag>
             
         </tags>
       
@@ -127,11 +205,11 @@
       
         <tags>
             
-            <tag> Github </tag>
-            
             <tag> Darler </tag>
             
             <tag> 极速翱翔 </tag>
+            
+            <tag> Github </tag>
             
             <tag> hexo </tag>
             
@@ -232,11 +310,11 @@
       
         <tags>
             
-            <tag> 删除 </tag>
-            
             <tag> Darler </tag>
             
             <tag> 极速翱翔 </tag>
+            
+            <tag> 删除 </tag>
             
             <tag> 强力 </tag>
             
@@ -273,8 +351,6 @@
             
             <tag> 极速翱翔 </tag>
             
-            <tag> hexo </tag>
-            
             <tag> seo </tag>
             
             <tag> sitemap </tag>
@@ -282,6 +358,8 @@
             <tag> 站长平台 </tag>
             
             <tag> 主动提交 </tag>
+            
+            <tag> hexo </tag>
             
             <tag> darler </tag>
             
