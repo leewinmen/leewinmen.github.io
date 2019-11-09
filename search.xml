@@ -4,6 +4,43 @@
   
     
     <entry>
+      <title>3DsMax2020极速翱翔精简版</title>
+      <link href="/3dsmax2020/"/>
+      <url>/3dsmax2020/</url>
+      
+        <content type="html"><![CDATA[<p>软件名称：Autodesk_3ds_Max_2020_极速翱翔精简版<br>软件大小：395M<br>软件语言：简体中文<br>应用平台：Win7 / Win8 / Win10（推荐）<br>更新时间：2019/11/11<br>下载地址：见文章末尾</p><p>这是一个大家参与的3dsMax2020，今年6月，开始用到3DMAX，苦于文件太大，电脑配置一般，网上还找不到版本较新的精简版，自己研究了老版本的精简后，决定自己来干。</p><p><img alt data-src="https://i.loli.net/2019/11/09/vJMn9j6hYN1RsXA.png" class="lozad"></p><p>没有相关经验，一个个文件去研究，哪些能删，哪些不能删，怎么把体积做到极致，我见过把软件做到1G自称精简的，但是当我发现其实可以缩小到200-400M之间时，我决定再深入研究，在不影响大家正常使用的情况下，把体积干到极致。</p><p><img alt data-src="https://i.loli.net/2019/11/09/gf17Z3WK8oPlayr.png" class="lozad"></p><p>3dsMax2017是我做的第一个精简版，随后做了2019，体积没有控制的很小，当然需求也没有特别大，一开始只是想做一个出来，后来感觉双数版本的比如2014，2016，2018，2020版本大家的呼声才是最高的，于是陆续把2018，2016，2020给做了出来。当然，最后做的2013版，反响实在是出乎意料的差，毕竟软件方面我也不专业。<br>越到后面对文件的作用也越了解了，但是恰巧碰到2020对Win7的兼容性好像没那么好，我安装一直不怎么顺利，PJ方法竟然变成了替换主程序？现在我可以告诉大家的是，还是用注册机PJ吧，原版的3dsMax你要是使用替换主程序的方法PJ也会出现无法保存的情况。摸清楚原因后，直接就把2020研究透即可。<br><img alt data-src="https://i.loli.net/2019/11/09/k9eIdgV3pBbQScy.jpg" class="lozad"><br><img alt data-src="https://i.loli.net/2019/11/09/1oIQ3STJ6iPvNwt.jpg" class="lozad"></p><p>为了方便大家反馈改进，当初留下了联系方式，收到大家给我提的建议，后来把联系方式改为更及时的微信平台，现在大家可以告别等待，用上2020了，节日快乐哈。</p><p><strong>下载地址请在公众号回复 3DMAX2020</strong><br><img alt data-src="https://i.loli.net/2019/11/09/PFUXi6Wwz4bBLpN.png" class="lozad"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 设计软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 3dmax </tag>
+            
+            <tag> 精简 </tag>
+            
+            <tag> Darler </tag>
+            
+            <tag> 极速翱翔 </tag>
+            
+            <tag> 软件 </tag>
+            
+            <tag> 室内 </tag>
+            
+            <tag> 2020 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>把两个无线路由器设置到一个局域网内</title>
       <link href="/2wifi/"/>
       <url>/2wifi/</url>
@@ -20,6 +57,10 @@
       
         <tags>
             
+            <tag> Darler </tag>
+            
+            <tag> 极速翱翔 </tag>
+            
             <tag> 路由器 </tag>
             
             <tag> 无线 </tag>
@@ -31,10 +72,6 @@
             <tag> 2个 </tag>
             
             <tag> 交换机 </tag>
-            
-            <tag> Darler </tag>
-            
-            <tag> 极速翱翔 </tag>
             
         </tags>
       
@@ -59,17 +96,17 @@
       
         <tags>
             
+            <tag> 精简 </tag>
+            
             <tag> Darler </tag>
             
             <tag> 极速翱翔 </tag>
             
+            <tag> 软件 </tag>
+            
             <tag> 2019 </tag>
             
             <tag> Soildworks </tag>
-            
-            <tag> 精简 </tag>
-            
-            <tag> 软件 </tag>
             
         </tags>
       
@@ -117,6 +154,43 @@
     
     
     <entry>
+      <title>3DsMax2016极速翱翔精简版</title>
+      <link href="/3dsmax2016/"/>
+      <url>/3dsmax2016/</url>
+      
+        <content type="html"><![CDATA[<p>软件名称：Autodesk_3ds_Max_2016_极速翱翔_64bit<br>软件语言：简体中文/英文<br>更新时间：2019/07/10<br>应用平台：Win7 / Win8 / Win10（推荐）<br>软件大小：279M<br>下载地址：见文章末尾</p><ol><li>存在要义<br> 极速翱翔不会编程，仅仅靠更改SETUP.ini文件，还有把一些无关的存档性文件做成空文件来减小安装文件的体积。<br> 自行研究了3dsMax2016默认中文的补丁。安装前请仔细阅读安装文件。</li></ol><ol start="2"><li>系统需求<br> 2.1. DirectX_32+64都要装上<br> 2.2. VC++ 2005<del>2015,32+64都要装上<br> 2.3. NET 3.5</del>4.5，32+64都要装上</li></ol><ol start="3"><li>安装<br> 3.1. 安装Autodesk 3ds max<br> 3.2. 使用这些系列号666-69696969<br> 3.3. 产品密码为：128H1<br> 3.4. 尽量在断网状态下激活。<br> 3.5. 在激活的界面上，启动X64注册机。<br> 3.6. 点击注册机界面上的Patch(即破解)，此时会看到successfully patched(成功破解)。<br> 3.7. 复制请求码(request code)到注册机并点击generate(生成)。<br> 3.8. 现在就可以复制激活码到激活界面，并点击下一步。这样就完成了Autodesk产品的注册了。<br><img alt data-src="https://i.loli.net/2019/11/09/5J9qoFYnDjvGE3L.jpg" class="lozad"><br><img alt data-src="https://i.loli.net/2019/11/09/TKQPwoe6xSE9kcl.jpg" class="lozad"><br><img alt data-src="https://i.loli.net/2019/11/09/1pnRvwDZJXQVqUE.jpg" class="lozad"><br><img alt data-src="https://i.loli.net/2019/11/09/c87pUmj6QteiAKZ.jpg" class="lozad"><br><img alt data-src="https://i.loli.net/2019/11/09/MjXVPrmqFJyh5ux.jpg" class="lozad"></li></ol><p>安装包仅供学习使用，请与下载后24小时内删除。<br>请扫描以下二维码，或搜索公众号 极速翱翔<br><strong>后台回复3dmax2016，获取下载地址</strong><br>如果网盘链接失效，或者你对3DMAX精简有什么建议反馈，<br>可直接在公众号发消息向我反馈，我会在第一时间回复大家。<br><img alt data-src="https://i.loli.net/2019/11/09/PFUXi6Wwz4bBLpN.png" class="lozad"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 设计软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 3dmax </tag>
+            
+            <tag> 精简 </tag>
+            
+            <tag> Darler </tag>
+            
+            <tag> 极速翱翔 </tag>
+            
+            <tag> 软件 </tag>
+            
+            <tag> 室内 </tag>
+            
+            <tag> 2020 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>阿诺德渲染器Arnold 2.5.2汉化PJ版</title>
       <link href="/arnold2-5-2/"/>
       <url>/arnold2-5-2/</url>
@@ -148,6 +222,43 @@
             <tag> 汉化 Arnold </tag>
             
             <tag> 2.5.2 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>3DsMax2013极速翱翔精简版</title>
+      <link href="/3dsmax2013/"/>
+      <url>/3dsmax2013/</url>
+      
+        <content type="html"><![CDATA[<p>软件名称：Autodesk_3ds_Max_2013_极速翱翔_64bit<br>软件语言：简体中文<br>更新时间：2019/07/16<br>应用平台：Win7 / Win8 / Win10<br>软件大小：203M<br>下载地址：见文章末尾</p><ol><li><p>存在要义<br>极速翱翔不会编程，仅仅靠更改SETUP.ini文件，还有把一些无关的存档性文件做成空文件来减小安装文件的体积。自行研究了3dsMax2013默认中文的补丁。安装前请仔细阅读安装文件。</p></li><li><p>运行库需求</p></li><li><ol><li>DirectX_32+64</li></ol></li><li><ol start="2"><li>VC++ 2005-2012,32+64</li></ol></li><li><ol start="3"><li>NET 2.5-3.5，32+64</li></ol></li><li><p>安装</p></li><li><ol><li>安装Autodesk 3ds max</li></ol></li><li><ol start="2"><li>使用这些系列号666-69696969</li></ol></li><li><ol start="3"><li>产品密码为：128E1</li></ol></li><li><ol start="4"><li>尽量在断网状态下激活。</li></ol></li><li><ol start="5"><li>在激活的界面上，启动X64注册机。</li></ol></li><li><ol start="6"><li>点击注册机界面上的Patch(即破解)，此时会看到successfully patched(成功破解)。</li></ol></li><li><ol start="7"><li>复制请求码(request code)到注册机并点击generate(生成)。</li></ol></li><li><ol start="8"><li>现在就可以复制激活码到激活界面，并点击下一步。这样就完成了Autodesk产品的注册了。<br><img alt data-src="https://i.loli.net/2019/11/09/Jt7MFlGj2zKrpAv.jpg" class="lozad"><br><img alt data-src="https://i.loli.net/2019/11/09/E5FRqnkYdJGmLAb.jpg" class="lozad"><br><img alt data-src="https://i.loli.net/2019/11/09/xwDKB5HizErJ78Y.jpg" class="lozad"><br><img alt data-src="https://i.loli.net/2019/11/09/qpJAzIt9iPSQs5f.jpg" class="lozad"><br><img alt data-src="https://i.loli.net/2019/11/09/vHjrLZtIN9wVnua.jpg" class="lozad"></li></ol></li></ol><p>安装包仅供学习使用，请与下载后24小时内删除。<br>请扫描以下二维码，或搜索公众号 极速翱翔<br><strong>后台回复3dmax2013，获取下载地址</strong><br>如果网盘链接失效，或者你对3DMAX精简有什么建议反馈，<br>可直接在公众号发消息向我反馈，我会在第一时间回复大家。<br><img alt data-src="https://i.loli.net/2019/11/09/PFUXi6Wwz4bBLpN.png" class="lozad"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 设计软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 3dmax </tag>
+            
+            <tag> 2013 </tag>
+            
+            <tag> 精简 </tag>
+            
+            <tag> Darler </tag>
+            
+            <tag> 极速翱翔 </tag>
+            
+            <tag> 软件 </tag>
+            
+            <tag> 室内 </tag>
             
         </tags>
       
@@ -209,9 +320,9 @@
             
             <tag> 极速翱翔 </tag>
             
-            <tag> Github </tag>
-            
             <tag> hexo </tag>
+            
+            <tag> Github </tag>
             
             <tag> 博客 </tag>
             
@@ -244,13 +355,13 @@
             
             <tag> hexo </tag>
             
-            <tag> darler </tag>
-            
             <tag> RSS </tag>
             
             <tag> atom.xml </tag>
             
             <tag> 订阅 </tag>
+            
+            <tag> darler </tag>
             
         </tags>
       
@@ -351,6 +462,10 @@
             
             <tag> 极速翱翔 </tag>
             
+            <tag> hexo </tag>
+            
+            <tag> darler </tag>
+            
             <tag> seo </tag>
             
             <tag> sitemap </tag>
@@ -358,10 +473,6 @@
             <tag> 站长平台 </tag>
             
             <tag> 主动提交 </tag>
-            
-            <tag> hexo </tag>
-            
-            <tag> darler </tag>
             
         </tags>
       
