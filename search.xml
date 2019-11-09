@@ -20,13 +20,13 @@
       
         <tags>
             
-            <tag> 3dmax </tag>
-            
-            <tag> 精简 </tag>
-            
             <tag> Darler </tag>
             
             <tag> 极速翱翔 </tag>
+            
+            <tag> 3dmax </tag>
+            
+            <tag> 精简 </tag>
             
             <tag> 软件 </tag>
             
@@ -57,10 +57,6 @@
       
         <tags>
             
-            <tag> Darler </tag>
-            
-            <tag> 极速翱翔 </tag>
-            
             <tag> 路由器 </tag>
             
             <tag> 无线 </tag>
@@ -72,6 +68,10 @@
             <tag> 2个 </tag>
             
             <tag> 交换机 </tag>
+            
+            <tag> Darler </tag>
+            
+            <tag> 极速翱翔 </tag>
             
         </tags>
       
@@ -96,17 +96,54 @@
       
         <tags>
             
-            <tag> 精简 </tag>
-            
             <tag> Darler </tag>
             
             <tag> 极速翱翔 </tag>
+            
+            <tag> 精简 </tag>
             
             <tag> 软件 </tag>
             
             <tag> 2019 </tag>
             
             <tag> Soildworks </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>3DsMax2019极速翱翔精简版</title>
+      <link href="/3dsmax2019/"/>
+      <url>/3dsmax2019/</url>
+      
+        <content type="html"><![CDATA[<p>软件名称：Autodesk_3ds_Max_2019_极速翱翔_64bit<br>软件语言：简体中文/英文<br>更新时间：2019/07/02<br>应用平台：Win7/Win8/Win10（推荐）<br>软件大小：497M<br>下载地址：见文章末尾</p><h5 id="1-存在要义"><a href="#1-存在要义" class="headerlink" title="1.存在要义"></a>1.存在要义</h5><p>极速翱翔不会编程，仅仅靠更改SETUP.ini文件，还有把一些无关的存档性文件做成空文件来减小安装文件的体积。处理了de-DE、fr-FR、ja-JP、ko-KR、pt-BR五种语言，只剩下英文版和中文版,文件大小从原来的解压后8G变成了解压后1.4G。自行研究了3dsMax2019默认中文的补丁。安装前请仔细阅读安装文件。</p><h5 id="2-系统需求"><a href="#2-系统需求" class="headerlink" title="2.系统需求"></a>2.系统需求</h5><ol><li>DirectX_32+64</li><li>VC++ 2005~2015，32+64都要装上</li><li>NET 3.5~4.5，32+64都要装上</li></ol><h5 id="3-安装"><a href="#3-安装" class="headerlink" title="3.安装"></a>3.安装</h5><ol><li>安装Autodesk 3ds max</li><li>使用这些系列号666-69696969</li><li>产品密码为：128K1</li><li>尽量在断网状态下激活。</li><li>在激活的界面上，启动X64注册机。</li><li>点击注册机界面上的Patch(即破解)，此时会看到successfully patched(成功破解)。</li><li>复制请求码(request code)到注册机并点击generate(生成)。</li><li>现在就可以复制激活码到激活界面，并点击下一步。这样就完成了Autodesk产品的注册了。</li><li>请注意不要填写真实的个人信息。以避免收到欧特克公司的律师函。<br><img alt data-src="https://i.loli.net/2019/11/09/p29OmJr8qANlH1g.jpg" class="lozad"><br><img alt data-src="https://i.loli.net/2019/11/09/DGd9pLiCRX3Mrbt.jpg" class="lozad"><br><img alt data-src="https://i.loli.net/2019/11/09/SPE2w7KxMjIlvnc.jpg" class="lozad"><br><img alt data-src="https://i.loli.net/2019/11/09/grPs1df6KAhFStC.jpg" class="lozad"></li></ol><p>安装包仅供学习使用，请与下载后24小时内删除。<br>请扫描以下二维码，或搜索公众号 极速翱翔<br><strong>后台回复3dmax2019，获取下载地址</strong><br>如果网盘链接失效，或者你对3DMAX精简有什么建议反馈，<br>可直接在公众号发消息向我反馈，我会在第一时间回复大家。<br><img alt data-src="https://i.loli.net/2019/11/09/PFUXi6Wwz4bBLpN.png" class="lozad"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 设计软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Darler </tag>
+            
+            <tag> 极速翱翔 </tag>
+            
+            <tag> 3dmax </tag>
+            
+            <tag> 精简 </tag>
+            
+            <tag> 软件 </tag>
+            
+            <tag> 室内 </tag>
+            
+            <tag> 2019 </tag>
             
         </tags>
       
@@ -141,11 +178,85 @@
             
             <tag> 汉化 </tag>
             
-            <tag> 2.6 </tag>
-            
             <tag> 渲染 </tag>
             
             <tag> 汉化 Arnold </tag>
+            
+            <tag> 2.6 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>3DsMax2018极速翱翔精简版</title>
+      <link href="/3dsmax2018/"/>
+      <url>/3dsmax2018/</url>
+      
+        <content type="html"><![CDATA[<p>软件名称：Autodesk_3ds_Max_2018_极速翱翔_64bit<br>软件语言：简体中文/英文<br>更新时间：2019/07/07<br>应用平台：Win7/Win8/Win10（推荐）<br>软件大小：417M<br>下载地址：见文章末尾</p><h5 id="1-存在要义"><a href="#1-存在要义" class="headerlink" title="1.存在要义"></a>1.存在要义</h5><p>极速翱翔不会编程，根据前人龙幻精简提供的指引，仅仅靠更改SETUP.ini文件，还有把一些无关的存档性文件做成空文件来减小安装文件的体积。处理了de-DE、fr-FR、ja-JP、ko-KR、pt-BR五种语言<br>自行研究了3dsMax2018默认中文的补丁。安装前请仔细阅读安装文件。<br>安装包仅供学习使用，请与下载后24小时内删除。</p><h5 id="2-系统需求"><a href="#2-系统需求" class="headerlink" title="2.系统需求"></a>2.系统需求</h5><p>2.1. VC++ 2005<del>2015，32+64都要装上<br>2.2. NET 3.5</del>4.5，32+64都要装上</p><h5 id="3-安装"><a href="#3-安装" class="headerlink" title="3.安装"></a>3.安装</h5><ol><li>安装Autodesk 3ds max</li><li>使用这些系列号666-69696969</li><li>产品密码为：128J1</li><li>尽量在断网状态下激活。</li><li>在激活的界面上，启动X64注册机。</li><li>点击注册机界面上的Patch(即破解)，此时会看到successfully patched(成功破解)。</li><li>复制请求码(request code)到注册机并点击generate(生成)。</li><li>现在就可以复制激活码到激活界面，并点击下一步。这样就完成了Autodesk产品的注册了。</li><li>请注意不要填写真实的个人信息。以避免收到欧特克公司的律师函。</li></ol><p><img alt data-src="https://i.loli.net/2019/11/09/Qfvl1DpZWn68IRa.jpg" class="lozad"><br><img alt data-src="https://i.loli.net/2019/11/09/MN2spb6OrIvDcKB.jpg" class="lozad"><br><img alt data-src="https://i.loli.net/2019/11/09/GYDTCtwXfvLbUBO.jpg" class="lozad"><br><img alt data-src="https://i.loli.net/2019/11/09/LdwrKoOitfJleEN.jpg" class="lozad"></p><p>安装包仅供学习使用，请与下载后24小时内删除。<br>请扫描以下二维码，或搜索公众号 极速翱翔<br><strong>后台回复3dmax2018，获取下载地址</strong><br>如果网盘链接失效，或者你对3DMAX精简有什么建议反馈，<br>可直接在公众号发消息向我反馈，我会在第一时间回复大家。<br><img alt data-src="https://i.loli.net/2019/11/09/PFUXi6Wwz4bBLpN.png" class="lozad"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 设计软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Darler </tag>
+            
+            <tag> 极速翱翔 </tag>
+            
+            <tag> 3dmax </tag>
+            
+            <tag> 精简 </tag>
+            
+            <tag> 软件 </tag>
+            
+            <tag> 室内 </tag>
+            
+            <tag> 2018 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>3DsMax2017极速翱翔精简版</title>
+      <link href="/3dsmax2017/"/>
+      <url>/3dsmax2017/</url>
+      
+        <content type="html"><![CDATA[<p>软件名称：Autodesk_3ds_Max_2017_极速翱翔_64bit<br>软件语言：简体中文/英文<br>更新时间：2019/07/28<br>应用平台：Win7 / Win8 / Win10（推荐）<br>软件大小：390M<br>下载地址：见文章末尾</p><h5 id="1-存在要义"><a href="#1-存在要义" class="headerlink" title="1.存在要义"></a>1.存在要义</h5><p>极速翱翔不会编程，根据前人龙幻精简提供的指引，仅仅靠更改SETUP.ini文件，还有把一些无关的存档性文件做成空文件来减小安装文件的体积。<br>处理了de-DE、fr-FR、ja-JP、ko-KR、pt-BR五种语言，只剩下英文版和中文版,文件大小从原来的解压后8G变成了解压后1.4G。<br>自行研究了3dsMax2017默认中文的补丁。安装前请仔细阅读安装文件。</p><h5 id="2-系统需求"><a href="#2-系统需求" class="headerlink" title="2.系统需求"></a>2.系统需求</h5><p>2.1 VC++ 2005<del>2015，32+64都要装上<br>2.2. NET 3.5</del>4.5，32+64都要装上</p><h5 id="3-安装"><a href="#3-安装" class="headerlink" title="3.安装"></a>3.安装</h5><ol><li>安装Autodesk 3ds max</li><li>使用这些系列号666-69696969</li><li>产品密码为：128I1</li><li>尽量在断网状态下激活。</li><li>在激活的界面上，启动X64注册机。</li><li>点击注册机界面上的Patch(即破解)，此时会看到successfully patched(成功破解)。</li><li>复制请求码(request code)到注册机并点击generate(生成)。</li><li>现在就可以复制激活码到激活界面，并点击下一步。这样就完成了Autodesk产品的注册了。</li><li>请注意不要填写真实的个人信息。以避免收到欧特克公司的律师函。<br> <img alt data-src="https://i.loli.net/2019/11/09/CH4Rn7ATEB9D28Y.jpg" class="lozad"><br> <img alt data-src="https://i.loli.net/2019/11/09/6LF18wfvm5ldXot.jpg" class="lozad"><br> <img alt data-src="https://i.loli.net/2019/11/09/mbsCWdMozUwhLJa.jpg" class="lozad"><br> <img alt data-src="https://i.loli.net/2019/11/09/hJxeClqPscKXU1u.jpg" class="lozad"><br> <img alt data-src="https://i.loli.net/2019/11/09/W6TMBzO9w4Jr3qI.jpg" class="lozad"></li></ol><p>安装包仅供学习使用，请与下载后24小时内删除。<br>请扫描以下二维码，或搜索公众号 极速翱翔<br><strong>后台回复3dmax2017，获取下载地址</strong><br>如果网盘链接失效，或者你对3DMAX精简有什么建议反馈，<br>可直接在公众号发消息向我反馈，我会在第一时间回复大家。<br><img alt data-src="https://i.loli.net/2019/11/09/PFUXi6Wwz4bBLpN.png" class="lozad"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 设计软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Darler </tag>
+            
+            <tag> 极速翱翔 </tag>
+            
+            <tag> 3dmax </tag>
+            
+            <tag> 精简 </tag>
+            
+            <tag> 软件 </tag>
+            
+            <tag> 室内 </tag>
+            
+            <tag> 2017 </tag>
             
         </tags>
       
@@ -158,7 +269,7 @@
       <link href="/3dsmax2016/"/>
       <url>/3dsmax2016/</url>
       
-        <content type="html"><![CDATA[<p>软件名称：Autodesk_3ds_Max_2016_极速翱翔_64bit<br>软件语言：简体中文/英文<br>更新时间：2019/07/10<br>应用平台：Win7 / Win8 / Win10（推荐）<br>软件大小：279M<br>下载地址：见文章末尾</p><ol><li>存在要义<br> 极速翱翔不会编程，仅仅靠更改SETUP.ini文件，还有把一些无关的存档性文件做成空文件来减小安装文件的体积。<br> 自行研究了3dsMax2016默认中文的补丁。安装前请仔细阅读安装文件。</li></ol><ol start="2"><li>系统需求<br> 2.1. DirectX_32+64都要装上<br> 2.2. VC++ 2005<del>2015,32+64都要装上<br> 2.3. NET 3.5</del>4.5，32+64都要装上</li></ol><ol start="3"><li>安装<br> 3.1. 安装Autodesk 3ds max<br> 3.2. 使用这些系列号666-69696969<br> 3.3. 产品密码为：128H1<br> 3.4. 尽量在断网状态下激活。<br> 3.5. 在激活的界面上，启动X64注册机。<br> 3.6. 点击注册机界面上的Patch(即破解)，此时会看到successfully patched(成功破解)。<br> 3.7. 复制请求码(request code)到注册机并点击generate(生成)。<br> 3.8. 现在就可以复制激活码到激活界面，并点击下一步。这样就完成了Autodesk产品的注册了。<br><img alt data-src="https://i.loli.net/2019/11/09/5J9qoFYnDjvGE3L.jpg" class="lozad"><br><img alt data-src="https://i.loli.net/2019/11/09/TKQPwoe6xSE9kcl.jpg" class="lozad"><br><img alt data-src="https://i.loli.net/2019/11/09/1pnRvwDZJXQVqUE.jpg" class="lozad"><br><img alt data-src="https://i.loli.net/2019/11/09/c87pUmj6QteiAKZ.jpg" class="lozad"><br><img alt data-src="https://i.loli.net/2019/11/09/MjXVPrmqFJyh5ux.jpg" class="lozad"></li></ol><p>安装包仅供学习使用，请与下载后24小时内删除。<br>请扫描以下二维码，或搜索公众号 极速翱翔<br><strong>后台回复3dmax2016，获取下载地址</strong><br>如果网盘链接失效，或者你对3DMAX精简有什么建议反馈，<br>可直接在公众号发消息向我反馈，我会在第一时间回复大家。<br><img alt data-src="https://i.loli.net/2019/11/09/PFUXi6Wwz4bBLpN.png" class="lozad"></p>]]></content>
+        <content type="html"><![CDATA[<p>软件名称：Autodesk_3ds_Max_2016_极速翱翔_64bit<br>软件语言：简体中文/英文<br>更新时间：2019/07/10<br>应用平台：Win7/Win8/Win10（推荐）<br>软件大小：279M<br>下载地址：见文章末尾</p><h5 id="1-存在要义"><a href="#1-存在要义" class="headerlink" title="1.存在要义"></a>1.存在要义</h5><p>极速翱翔不会编程，仅仅靠更改SETUP.ini文件，还有把一些无关的存档性文件做成空文件来减小安装文件的体积。自行研究了3dsMax2016默认中文的补丁。安装前请仔细阅读安装文件。</p><h5 id="2-系统需求"><a href="#2-系统需求" class="headerlink" title="2.系统需求"></a>2.系统需求</h5><ol><li>DirectX_32+64都要装上</li><li>VC++ 2005~2015，32+64都要装上</li><li>NET 3.5~4.5，32+64都要装上</li></ol><h5 id="3-安装"><a href="#3-安装" class="headerlink" title="3.安装"></a>3.安装</h5><ol><li>安装Autodesk 3ds max</li><li>使用这些系列号666-69696969</li><li>产品密码为：128H1</li><li>尽量在断网状态下激活。</li><li>在激活的界面上，启动X64注册机。</li><li>点击注册机界面上的Patch(即破解)，此时会看到successfully patched(成功破解)。</li><li>复制请求码(request code)到注册机并点击generate(生成)。</li><li>现在就可以复制激活码到激活界面，并点击下一步。这样就完成了Autodesk产品的注册了。<br><img alt data-src="https://i.loli.net/2019/11/09/5J9qoFYnDjvGE3L.jpg" class="lozad"><br><img alt data-src="https://i.loli.net/2019/11/09/TKQPwoe6xSE9kcl.jpg" class="lozad"><br><img alt data-src="https://i.loli.net/2019/11/09/1pnRvwDZJXQVqUE.jpg" class="lozad"><br><img alt data-src="https://i.loli.net/2019/11/09/c87pUmj6QteiAKZ.jpg" class="lozad"><br><img alt data-src="https://i.loli.net/2019/11/09/MjXVPrmqFJyh5ux.jpg" class="lozad"></li></ol><p>安装包仅供学习使用，请与下载后24小时内删除。<br>请扫描以下二维码，或搜索公众号 极速翱翔<br><strong>后台回复3dmax2016，获取下载地址</strong><br>如果网盘链接失效，或者你对3DMAX精简有什么建议反馈，<br>可直接在公众号发消息向我反馈，我会在第一时间回复大家。<br><img alt data-src="https://i.loli.net/2019/11/09/PFUXi6Wwz4bBLpN.png" class="lozad"></p>]]></content>
       
       
       <categories>
@@ -170,19 +281,19 @@
       
         <tags>
             
-            <tag> 3dmax </tag>
-            
-            <tag> 精简 </tag>
-            
             <tag> Darler </tag>
             
             <tag> 极速翱翔 </tag>
             
+            <tag> 3dmax </tag>
+            
+            <tag> 2016 </tag>
+            
+            <tag> 精简 </tag>
+            
             <tag> 软件 </tag>
             
             <tag> 室内 </tag>
-            
-            <tag> 2020 </tag>
             
         </tags>
       
@@ -217,11 +328,11 @@
             
             <tag> 汉化 </tag>
             
+            <tag> 2.5.2 </tag>
+            
             <tag> 渲染 </tag>
             
             <tag> 汉化 Arnold </tag>
-            
-            <tag> 2.5.2 </tag>
             
         </tags>
       
@@ -234,7 +345,7 @@
       <link href="/3dsmax2013/"/>
       <url>/3dsmax2013/</url>
       
-        <content type="html"><![CDATA[<p>软件名称：Autodesk_3ds_Max_2013_极速翱翔_64bit<br>软件语言：简体中文<br>更新时间：2019/07/16<br>应用平台：Win7 / Win8 / Win10<br>软件大小：203M<br>下载地址：见文章末尾</p><ol><li><p>存在要义<br>极速翱翔不会编程，仅仅靠更改SETUP.ini文件，还有把一些无关的存档性文件做成空文件来减小安装文件的体积。自行研究了3dsMax2013默认中文的补丁。安装前请仔细阅读安装文件。</p></li><li><p>运行库需求</p></li><li><ol><li>DirectX_32+64</li></ol></li><li><ol start="2"><li>VC++ 2005-2012,32+64</li></ol></li><li><ol start="3"><li>NET 2.5-3.5，32+64</li></ol></li><li><p>安装</p></li><li><ol><li>安装Autodesk 3ds max</li></ol></li><li><ol start="2"><li>使用这些系列号666-69696969</li></ol></li><li><ol start="3"><li>产品密码为：128E1</li></ol></li><li><ol start="4"><li>尽量在断网状态下激活。</li></ol></li><li><ol start="5"><li>在激活的界面上，启动X64注册机。</li></ol></li><li><ol start="6"><li>点击注册机界面上的Patch(即破解)，此时会看到successfully patched(成功破解)。</li></ol></li><li><ol start="7"><li>复制请求码(request code)到注册机并点击generate(生成)。</li></ol></li><li><ol start="8"><li>现在就可以复制激活码到激活界面，并点击下一步。这样就完成了Autodesk产品的注册了。<br><img alt data-src="https://i.loli.net/2019/11/09/Jt7MFlGj2zKrpAv.jpg" class="lozad"><br><img alt data-src="https://i.loli.net/2019/11/09/E5FRqnkYdJGmLAb.jpg" class="lozad"><br><img alt data-src="https://i.loli.net/2019/11/09/xwDKB5HizErJ78Y.jpg" class="lozad"><br><img alt data-src="https://i.loli.net/2019/11/09/qpJAzIt9iPSQs5f.jpg" class="lozad"><br><img alt data-src="https://i.loli.net/2019/11/09/vHjrLZtIN9wVnua.jpg" class="lozad"></li></ol></li></ol><p>安装包仅供学习使用，请与下载后24小时内删除。<br>请扫描以下二维码，或搜索公众号 极速翱翔<br><strong>后台回复3dmax2013，获取下载地址</strong><br>如果网盘链接失效，或者你对3DMAX精简有什么建议反馈，<br>可直接在公众号发消息向我反馈，我会在第一时间回复大家。<br><img alt data-src="https://i.loli.net/2019/11/09/PFUXi6Wwz4bBLpN.png" class="lozad"></p>]]></content>
+        <content type="html"><![CDATA[<p>软件名称：Autodesk_3ds_Max_2013_极速翱翔_64bit<br>软件语言：简体中文<br>更新时间：2019/07/16<br>应用平台：Win7/Win8/Win10<br>软件大小：203M<br>下载地址：见文章末尾</p><h5 id="1-存在要义"><a href="#1-存在要义" class="headerlink" title="1.存在要义"></a>1.存在要义</h5><p>极速翱翔不会编程，仅仅靠更改SETUP.ini文件，还有把一些无关的存档性文件做成空文件来减小安装文件的体积。自行研究了3dsMax2013默认中文的补丁。安装前请仔细阅读安装文件。</p><h5 id="2-运行库需求"><a href="#2-运行库需求" class="headerlink" title="2.运行库需求"></a>2.运行库需求</h5><p>2.1. DirectX_32+64<br>2.2. VC++ 2005-2012，32+64<br>2.3. NET 2.5-3.5，32+64</p><h5 id="3-安装"><a href="#3-安装" class="headerlink" title="3.安装"></a>3.安装</h5><ol><li>安装Autodesk 3ds max</li><li>使用这些系列号666-69696969</li><li>产品密码为：128E1</li><li>尽量在断网状态下激活。</li><li>在激活的界面上，启动X64注册机。</li><li>点击注册机界面上的Patch(即破解)，此时会看到successfully patched(成功破解)。</li><li>复制请求码(request code)到注册机并点击generate(生成)。</li><li>现在就可以复制激活码到激活界面，并点击下一步。这样就完成了Autodesk产品的注册了。<br><img alt data-src="https://i.loli.net/2019/11/09/Jt7MFlGj2zKrpAv.jpg" class="lozad"><br><img alt data-src="https://i.loli.net/2019/11/09/E5FRqnkYdJGmLAb.jpg" class="lozad"><br><img alt data-src="https://i.loli.net/2019/11/09/xwDKB5HizErJ78Y.jpg" class="lozad"><br><img alt data-src="https://i.loli.net/2019/11/09/qpJAzIt9iPSQs5f.jpg" class="lozad"><br><img alt data-src="https://i.loli.net/2019/11/09/vHjrLZtIN9wVnua.jpg" class="lozad"></li></ol><p>安装包仅供学习使用，请与下载后24小时内删除。<br>请扫描以下二维码，或搜索公众号 极速翱翔<br><strong>后台回复3dmax2013，获取下载地址</strong><br>如果网盘链接失效，或者你对3DMAX精简有什么建议反馈，<br>可直接在公众号发消息向我反馈，我会在第一时间回复大家。<br><img alt data-src="https://i.loli.net/2019/11/09/PFUXi6Wwz4bBLpN.png" class="lozad"></p>]]></content>
       
       
       <categories>
@@ -246,19 +357,19 @@
       
         <tags>
             
-            <tag> 3dmax </tag>
-            
-            <tag> 2013 </tag>
-            
-            <tag> 精简 </tag>
-            
             <tag> Darler </tag>
             
             <tag> 极速翱翔 </tag>
             
+            <tag> 3dmax </tag>
+            
+            <tag> 精简 </tag>
+            
             <tag> 软件 </tag>
             
             <tag> 室内 </tag>
+            
+            <tag> 2013 </tag>
             
         </tags>
       
