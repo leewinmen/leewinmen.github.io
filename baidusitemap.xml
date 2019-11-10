@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://blog.darler.cn/3dsmax2020/</loc>
+    <lastmod>2019-11-10</lastmod>
+  </url>  <url>
     <loc>http://blog.darler.cn/3dsmax2013/</loc>
     <lastmod>2019-11-09</lastmod>
   </url>  <url>
@@ -14,9 +17,6 @@
     <lastmod>2019-11-09</lastmod>
   </url>  <url>
     <loc>http://blog.darler.cn/3dsmax2019/</loc>
-    <lastmod>2019-11-09</lastmod>
-  </url>  <url>
-    <loc>http://blog.darler.cn/3dsmax2020/</loc>
     <lastmod>2019-11-09</lastmod>
   </url>  <url>
     <loc>http://blog.darler.cn/arnold2-5-2/</loc>
