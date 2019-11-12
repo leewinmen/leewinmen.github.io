@@ -178,11 +178,11 @@
             
             <tag> 汉化 </tag>
             
+            <tag> 2.6 </tag>
+            
             <tag> 渲染 </tag>
             
             <tag> 汉化 Arnold </tag>
-            
-            <tag> 2.6 </tag>
             
         </tags>
       
@@ -283,8 +283,6 @@
             
             <tag> 3dmax </tag>
             
-            <tag> 2016 </tag>
-            
             <tag> 精简 </tag>
             
             <tag> Darler </tag>
@@ -294,6 +292,8 @@
             <tag> 软件 </tag>
             
             <tag> 室内 </tag>
+            
+            <tag> 2016 </tag>
             
         </tags>
       
@@ -328,11 +328,11 @@
             
             <tag> 汉化 </tag>
             
-            <tag> 2.5.2 </tag>
-            
             <tag> 渲染 </tag>
             
             <tag> 汉化 Arnold </tag>
+            
+            <tag> 2.5.2 </tag>
             
         </tags>
       
@@ -359,6 +359,8 @@
             
             <tag> 3dmax </tag>
             
+            <tag> 2013 </tag>
+            
             <tag> 精简 </tag>
             
             <tag> Darler </tag>
@@ -368,8 +370,6 @@
             <tag> 软件 </tag>
             
             <tag> 室内 </tag>
-            
-            <tag> 2013 </tag>
             
         </tags>
       
@@ -446,6 +446,45 @@
     
     
     <entry>
+      <title>局域网多台电脑共享一台打印机</title>
+      <link href="/share-printer/"/>
+      <url>/share-printer/</url>
+      
+        <content type="html"><![CDATA[<p>今天跟大家更新局域网的布置，在家里有好几台电脑，还有2台打印机，打印材料的时分不方便，还会耽搁别人运用电脑，那么咱们怎么能完成在自己的电脑上直接打印材料呢？这就用到了打印机局共享的功能，咱们多台电脑共享一台打印机。下面咱们一同来看看是怎么完成的。</p><p>首先得保证咱们的电脑是在同一个局域网内，连接打印机的电脑装置好了驱动程序，打印机保持开机状态。</p><p>照着做你也会的设置。</p><h4 id="1-在高级共享设置中打开网络发现"><a href="#1-在高级共享设置中打开网络发现" class="headerlink" title="1.在高级共享设置中打开网络发现"></a>1.在高级共享设置中打开网络发现</h4><p>进入控制面板-高级共享设置，具体设置和步骤看图，很详细。</p><p><img alt data-src="https://i.loli.net/2019/11/12/Usot9POVnfcxTBe.jpg" class="lozad"></p><h4 id="2在设备与打印机共享打印机"><a href="#2在设备与打印机共享打印机" class="headerlink" title="2在设备与打印机共享打印机"></a>2在设备与打印机共享打印机</h4><p>右键打印机-<strong>打印机属性</strong>，勾选共享打印机，过程如图</p><p><img alt data-src="https://i.loli.net/2019/11/12/sB5oDmagIVnjvFb.jpg" class="lozad"></p><h4 id="3-查看计算机名"><a href="#3-查看计算机名" class="headerlink" title="3.查看计算机名"></a>3.查看计算机名</h4><p>可以看到我的计算机名，接下来要用到。到此被共享的电脑设置就已经完成了。</p><p><img alt data-src="https://i.loli.net/2019/11/12/8siVaOuM9l6ZISq.jpg" class="lozad"></p><h4 id="4-其他电脑访问共享计算机"><a href="#4-其他电脑访问共享计算机" class="headerlink" title="4.其他电脑访问共享计算机"></a>4.其他电脑访问共享计算机</h4><p>两个斜杠+计算机名，比如我这里就是</p><p><code>\\C-005041</code></p><p>然后就能看到共享的打印机了，双击它，其他电脑就能自己安装驱动程序，安装完成后，就能看到打印机界面啦，打印时选择这台共享的打印机就能完成打印。</p><p><img alt data-src="https://i.loli.net/2019/11/12/Mqecx8tCnHRP736.png" class="lozad"></p><h4 id="故障补充："><a href="#故障补充：" class="headerlink" title="故障补充："></a>故障补充：</h4><p>如果你在连接过程中出现0x00000bcb错误</p><p>安装 <a href="https://www.microsoft.com/zh-CN/download/details.aspx?id=53225" target="_blank" rel="noopener"><strong>KB3170455</strong></a> 补丁即可解决</p><p><img alt data-src="https://i.loli.net/2019/11/12/tM2kTcISdOHanVf.png" class="lozad"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 电脑网络 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Darler </tag>
+            
+            <tag> 极速翱翔 </tag>
+            
+            <tag> 局域网 </tag>
+            
+            <tag> 多台电脑 </tag>
+            
+            <tag> 共享 </tag>
+            
+            <tag> 打印机 </tag>
+            
+            <tag> 一台 </tag>
+            
+            <tag> 00000bcb </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hexo安装rss插件生成atom.xml</title>
       <link href="/RSS/"/>
       <url>/RSS/</url>
@@ -464,11 +503,11 @@
             
             <tag> 极速翱翔 </tag>
             
+            <tag> hexo </tag>
+            
             <tag> RSS </tag>
             
             <tag> atom.xml </tag>
-            
-            <tag> hexo </tag>
             
             <tag> 订阅 </tag>
             

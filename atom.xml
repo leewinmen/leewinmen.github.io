@@ -185,11 +185,11 @@
     
       <category term="汉化" scheme="http://blog.darler.cn/tags/%E6%B1%89%E5%8C%96/"/>
     
+      <category term="2.6" scheme="http://blog.darler.cn/tags/2-6/"/>
+    
       <category term="渲染" scheme="http://blog.darler.cn/tags/%E6%B8%B2%E6%9F%93/"/>
     
       <category term="汉化 Arnold" scheme="http://blog.darler.cn/tags/%E6%B1%89%E5%8C%96-Arnold/"/>
-    
-      <category term="2.6" scheme="http://blog.darler.cn/tags/2-6/"/>
     
   </entry>
   
@@ -284,8 +284,6 @@
     
       <category term="3dmax" scheme="http://blog.darler.cn/tags/3dmax/"/>
     
-      <category term="2016" scheme="http://blog.darler.cn/tags/2016/"/>
-    
       <category term="精简" scheme="http://blog.darler.cn/tags/%E7%B2%BE%E7%AE%80/"/>
     
       <category term="Darler" scheme="http://blog.darler.cn/tags/Darler/"/>
@@ -295,6 +293,8 @@
       <category term="软件" scheme="http://blog.darler.cn/tags/%E8%BD%AF%E4%BB%B6/"/>
     
       <category term="室内" scheme="http://blog.darler.cn/tags/%E5%AE%A4%E5%86%85/"/>
+    
+      <category term="2016" scheme="http://blog.darler.cn/tags/2016/"/>
     
   </entry>
   
@@ -327,11 +327,11 @@
     
       <category term="汉化" scheme="http://blog.darler.cn/tags/%E6%B1%89%E5%8C%96/"/>
     
-      <category term="2.5.2" scheme="http://blog.darler.cn/tags/2-5-2/"/>
-    
       <category term="渲染" scheme="http://blog.darler.cn/tags/%E6%B8%B2%E6%9F%93/"/>
     
       <category term="汉化 Arnold" scheme="http://blog.darler.cn/tags/%E6%B1%89%E5%8C%96-Arnold/"/>
+    
+      <category term="2.5.2" scheme="http://blog.darler.cn/tags/2-5-2/"/>
     
   </entry>
   
@@ -356,6 +356,8 @@
     
       <category term="3dmax" scheme="http://blog.darler.cn/tags/3dmax/"/>
     
+      <category term="2013" scheme="http://blog.darler.cn/tags/2013/"/>
+    
       <category term="精简" scheme="http://blog.darler.cn/tags/%E7%B2%BE%E7%AE%80/"/>
     
       <category term="Darler" scheme="http://blog.darler.cn/tags/Darler/"/>
@@ -365,8 +367,6 @@
       <category term="软件" scheme="http://blog.darler.cn/tags/%E8%BD%AF%E4%BB%B6/"/>
     
       <category term="室内" scheme="http://blog.darler.cn/tags/%E5%AE%A4%E5%86%85/"/>
-    
-      <category term="2013" scheme="http://blog.darler.cn/tags/2013/"/>
     
   </entry>
   
@@ -435,6 +435,43 @@
   </entry>
   
   <entry>
+    <title>局域网多台电脑共享一台打印机</title>
+    <link href="http://blog.darler.cn/share-printer/"/>
+    <id>http://blog.darler.cn/share-printer/</id>
+    <published>2018-01-12T13:36:38.000Z</published>
+    <updated>2019-11-12T13:50:23.455Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天跟大家更新局域网的布置，在家里有好几台电脑，还有2台打印机，打印材料的时分不方便，还会耽搁别人运用电脑，那么咱们怎么能完成在自己的电脑上直接打印材料呢？这就用到了打印机局共享的功能，咱们多台电脑共享一台打印机。下面咱们一同来看看是怎么完成的。</p><p>首先得保证咱们的电脑是在同一个局域网内，连接打印机的电脑装置好了驱动程序，打印机保持开机状态。</p><p>照着做你也会的设置。</p><h4 id="1-在高级共享设置中打开网络发现"><a href="#1-在高级共享设置中打开网络发现" class="headerlink" title="1.在高级共享设置中打开网络发现"></a>1.在高级共享设置中打开网络发现</h4><p>进入控制面板-高级共享设置，具体设置和步骤看图，很详细。</p><p><img alt data-src="https://i.loli.net/2019/11/12/Usot9POVnfcxTBe.jpg" class="lozad"></p><h4 id="2在设备与打印机共享打印机"><a href="#2在设备与打印机共享打印机" class="headerlink" title="2在设备与打印机共享打印机"></a>2在设备与打印机共享打印机</h4><p>右键打印机-<strong>打印机属性</strong>，勾选共享打印机，过程如图</p><p><img alt data-src="https://i.loli.net/2019/11/12/sB5oDmagIVnjvFb.jpg" class="lozad"></p><h4 id="3-查看计算机名"><a href="#3-查看计算机名" class="headerlink" title="3.查看计算机名"></a>3.查看计算机名</h4><p>可以看到我的计算机名，接下来要用到。到此被共享的电脑设置就已经完成了。</p><p><img alt data-src="https://i.loli.net/2019/11/12/8siVaOuM9l6ZISq.jpg" class="lozad"></p><h4 id="4-其他电脑访问共享计算机"><a href="#4-其他电脑访问共享计算机" class="headerlink" title="4.其他电脑访问共享计算机"></a>4.其他电脑访问共享计算机</h4><p>两个斜杠+计算机名，比如我这里就是</p><p><code>\\C-005041</code></p><p>然后就能看到共享的打印机了，双击它，其他电脑就能自己安装驱动程序，安装完成后，就能看到打印机界面啦，打印时选择这台共享的打印机就能完成打印。</p><p><img alt data-src="https://i.loli.net/2019/11/12/Mqecx8tCnHRP736.png" class="lozad"></p><h4 id="故障补充："><a href="#故障补充：" class="headerlink" title="故障补充："></a>故障补充：</h4><p>如果你在连接过程中出现0x00000bcb错误</p><p>安装 <a href="https://www.microsoft.com/zh-CN/download/details.aspx?id=53225" target="_blank" rel="noopener"><strong>KB3170455</strong></a> 补丁即可解决</p><p><img alt data-src="https://i.loli.net/2019/11/12/tM2kTcISdOHanVf.png" class="lozad"></p>]]></content>
+    
+    <summary type="html">
+    
+      最近给家里组局域网，多无限路由器的问题一直困扰着我，今天给大家介绍，如何把两个无线路由器设置到一个局域网内的方法。
+    
+    </summary>
+    
+    
+      <category term="电脑网络" scheme="http://blog.darler.cn/categories/%E7%94%B5%E8%84%91%E7%BD%91%E7%BB%9C/"/>
+    
+    
+      <category term="Darler" scheme="http://blog.darler.cn/tags/Darler/"/>
+    
+      <category term="极速翱翔" scheme="http://blog.darler.cn/tags/%E6%9E%81%E9%80%9F%E7%BF%B1%E7%BF%94/"/>
+    
+      <category term="局域网" scheme="http://blog.darler.cn/tags/%E5%B1%80%E5%9F%9F%E7%BD%91/"/>
+    
+      <category term="多台电脑" scheme="http://blog.darler.cn/tags/%E5%A4%9A%E5%8F%B0%E7%94%B5%E8%84%91/"/>
+    
+      <category term="共享" scheme="http://blog.darler.cn/tags/%E5%85%B1%E4%BA%AB/"/>
+    
+      <category term="打印机" scheme="http://blog.darler.cn/tags/%E6%89%93%E5%8D%B0%E6%9C%BA/"/>
+    
+      <category term="一台" scheme="http://blog.darler.cn/tags/%E4%B8%80%E5%8F%B0/"/>
+    
+      <category term="00000bcb" scheme="http://blog.darler.cn/tags/00000bcb/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hexo安装rss插件生成atom.xml</title>
     <link href="http://blog.darler.cn/RSS/"/>
     <id>http://blog.darler.cn/RSS/</id>
@@ -455,11 +492,11 @@
     
       <category term="极速翱翔" scheme="http://blog.darler.cn/tags/%E6%9E%81%E9%80%9F%E7%BF%B1%E7%BF%94/"/>
     
+      <category term="hexo" scheme="http://blog.darler.cn/tags/hexo/"/>
+    
       <category term="RSS" scheme="http://blog.darler.cn/tags/RSS/"/>
     
       <category term="atom.xml" scheme="http://blog.darler.cn/tags/atom-xml/"/>
-    
-      <category term="hexo" scheme="http://blog.darler.cn/tags/hexo/"/>
     
       <category term="订阅" scheme="http://blog.darler.cn/tags/%E8%AE%A2%E9%98%85/"/>
     
