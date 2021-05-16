@@ -3313,8 +3313,8 @@ body {
 	/*background-size:cover;
 	background: url(../img/background.jpg) no-repeat;
 	background-attachment: fixed;*/
-	background: -webkit-linear-gradient(315deg, #757aff, #c4ff99) no-repeat fixed;
-    background: linear-gradient(135deg, #757aff, #c4ff99) no-repeat fixed;
+	background: -webkit-linear-gradient(315deg, #6165d4, #a2d47f) no-repeat fixed;
+    background: linear-gradient(135deg, #6165d4, #a2d47f) no-repeat fixed;
 	overflow: hidden;
 	font-family: 'Helvetica Neue','Microsoft Yahei',SimHei,sans-serif
 }
